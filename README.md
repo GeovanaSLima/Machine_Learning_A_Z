@@ -27,7 +27,7 @@
 <br>
 
 ## Sections :clipboard:
-Part 1: Data Preprocessing ([Python](https://github.com/GeovanaSLima/Machine_Learning_A_Z/blob/main/Part_1_Data_Preprocessing_Tools.ipynb) | [R]()) :heavy_check_mark:
+Part 1: Data Preprocessing ([Python](https://github.com/GeovanaSLima/Machine_Learning_A_Z/blob/main/Part_1_Data_Preprocessing_Tools.ipynb) | [R](https://github.com/GeovanaSLima/Machine_Learning_A_Z/blob/main/Part_1_Data_Preprocessing.R)) :heavy_check_mark:
 
 Part 2: Regression
 
