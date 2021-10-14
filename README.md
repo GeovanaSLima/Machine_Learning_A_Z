@@ -30,6 +30,7 @@
 Part 1: Data Preprocessing ([Python](https://github.com/GeovanaSLima/Machine_Learning_A_Z/blob/main/Part_1_Data_Preprocessing_Python.ipynb) | [R](https://github.com/GeovanaSLima/Machine_Learning_A_Z/blob/main/Part_1_Data_Preprocessing.R)) :heavy_check_mark:
 
 Part 2: Regression
+> Simple Linear Regression ([Python](https://github.com/GeovanaSLima/Machine_Learning_A_Z/blob/main/Part_2_Simple_Linear_Regression.ipynb) | [R]())
 
 Part 3: Classification
 
